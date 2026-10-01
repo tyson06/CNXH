@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "question": "Câu hỏi mẫu 1: 7 × 8 bằng bao nhiêu?",
+    "answers": [
+      "57",
+      "55",
+      "58",
+      "56"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 1 của phần 2. Hãy tính 7 × 8; đáp án là 56. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 2,
+    "question": "Câu hỏi mẫu 2: 12 + 11 bằng bao nhiêu?",
+    "answers": [
+      "24",
+      "22",
+      "23",
+      "25"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 2 của phần 2. Hãy tính 12 + 11; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 3,
+    "question": "Câu hỏi mẫu 3: 25 − 4 bằng bao nhiêu?",
+    "answers": [
+      "22",
+      "21",
+      "20",
+      "23"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 3 của phần 2. Hãy tính 25 − 4; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 4,
+    "question": "Câu hỏi mẫu 4: 10 × 4 bằng bao nhiêu?",
+    "answers": [
+      "40",
+      "41",
+      "39",
+      "42"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 4 của phần 2. Hãy tính 10 × 4; đáp án là 40. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 5,
+    "question": "Câu hỏi mẫu 5: 15 + 3 bằng bao nhiêu?",
+    "answers": [
+      "19",
+      "17",
+      "20",
+      "18"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 5 của phần 2. Hãy tính 15 + 3; đáp án là 18. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 6,
+    "question": "Câu hỏi mẫu 6: 13 − 7 bằng bao nhiêu?",
+    "answers": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 6 của phần 2. Hãy tính 13 − 7; đáp án là 6. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 7,
+    "question": "Câu hỏi mẫu 7: 4 × 7 bằng bao nhiêu?",
+    "answers": [
+      "29",
+      "28",
+      "27",
+      "30"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 7 của phần 2. Hãy tính 4 × 7; đáp án là 28. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 8,
+    "question": "Câu hỏi mẫu 8: 18 + 6 bằng bao nhiêu?",
+    "answers": [
+      "24",
+      "25",
+      "23",
+      "26"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 8 của phần 2. Hãy tính 18 + 6; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 9,
+    "question": "Câu hỏi mẫu 9: 16 − 2 bằng bao nhiêu?",
+    "answers": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 9 của phần 2. Hãy tính 16 − 2; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 10,
+    "question": "Câu hỏi mẫu 10: 7 × 3 bằng bao nhiêu?",
+    "answers": [
+      "22",
+      "20",
+      "21",
+      "23"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 10 của phần 2. Hãy tính 7 × 3; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 11,
+    "question": "Câu hỏi mẫu 11: 4 + 9 bằng bao nhiêu?",
+    "answers": [
+      "14",
+      "13",
+      "12",
+      "15"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 11 của phần 2. Hãy tính 4 + 9; đáp án là 13. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 12,
+    "question": "Câu hỏi mẫu 12: 19 − 5 bằng bao nhiêu?",
+    "answers": [
+      "14",
+      "15",
+      "13",
+      "16"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 12 của phần 2. Hãy tính 19 − 5; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 13,
+    "question": "Câu hỏi mẫu 13: 10 × 6 bằng bao nhiêu?",
+    "answers": [
+      "61",
+      "59",
+      "62",
+      "60"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 13 của phần 2. Hãy tính 10 × 6; đáp án là 60. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 14,
+    "question": "Câu hỏi mẫu 14: 7 + 12 bằng bao nhiêu?",
+    "answers": [
+      "20",
+      "18",
+      "19",
+      "21"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 14 của phần 2. Hãy tính 7 + 12; đáp án là 19. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 15,
+    "question": "Câu hỏi mẫu 15: 22 − 8 bằng bao nhiêu?",
+    "answers": [
+      "15",
+      "14",
+      "13",
+      "16"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 15 của phần 2. Hãy tính 22 − 8; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 16,
+    "question": "Câu hỏi mẫu 16: 4 × 2 bằng bao nhiêu?",
+    "answers": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 16 của phần 2. Hãy tính 4 × 2; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 17,
+    "question": "Câu hỏi mẫu 17: 10 + 4 bằng bao nhiêu?",
+    "answers": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 17 của phần 2. Hãy tính 10 + 4; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 18,
+    "question": "Câu hỏi mẫu 18: 25 − 3 bằng bao nhiêu?",
+    "answers": [
+      "23",
+      "21",
+      "22",
+      "24"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 18 của phần 2. Hãy tính 25 − 3; đáp án là 22. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 19,
+    "question": "Câu hỏi mẫu 19: 7 × 5 bằng bao nhiêu?",
+    "answers": [
+      "36",
+      "35",
+      "34",
+      "37"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 19 của phần 2. Hãy tính 7 × 5; đáp án là 35. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 20,
+    "question": "Câu hỏi mẫu 20: 13 + 7 bằng bao nhiêu?",
+    "answers": [
+      "20",
+      "21",
+      "19",
+      "22"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 20 của phần 2. Hãy tính 13 + 7; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 21,
+    "question": "Câu hỏi mẫu 21: 13 − 6 bằng bao nhiêu?",
+    "answers": [
+      "8",
+      "6",
+      "9",
+      "7"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 21 của phần 2. Hãy tính 13 − 6; đáp án là 7. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 22,
+    "question": "Câu hỏi mẫu 22: 10 × 8 bằng bao nhiêu?",
+    "answers": [
+      "81",
+      "79",
+      "80",
+      "82"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 22 của phần 2. Hãy tính 10 × 8; đáp án là 80. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 23,
+    "question": "Câu hỏi mẫu 23: 16 + 10 bằng bao nhiêu?",
+    "answers": [
+      "27",
+      "26",
+      "25",
+      "28"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 23 của phần 2. Hãy tính 16 + 10; đáp án là 26. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 24,
+    "question": "Câu hỏi mẫu 24: 16 − 1 bằng bao nhiêu?",
+    "answers": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 24 của phần 2. Hãy tính 16 − 1; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 25,
+    "question": "Câu hỏi mẫu 25: 4 × 4 bằng bao nhiêu?",
+    "answers": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 25 của phần 2. Hãy tính 4 × 4; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 26,
+    "question": "Câu hỏi mẫu 26: 19 + 2 bằng bao nhiêu?",
+    "answers": [
+      "22",
+      "20",
+      "21",
+      "23"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 26 của phần 2. Hãy tính 19 + 2; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 27,
+    "question": "Câu hỏi mẫu 27: 19 − 4 bằng bao nhiêu?",
+    "answers": [
+      "16",
+      "15",
+      "14",
+      "17"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 27 của phần 2. Hãy tính 19 − 4; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 28,
+    "question": "Câu hỏi mẫu 28: 7 × 7 bằng bao nhiêu?",
+    "answers": [
+      "49",
+      "50",
+      "48",
+      "51"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 28 của phần 2. Hãy tính 7 × 7; đáp án là 49. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 29,
+    "question": "Câu hỏi mẫu 29: 5 + 5 bằng bao nhiêu?",
+    "answers": [
+      "11",
+      "9",
+      "12",
+      "10"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 29 của phần 2. Hãy tính 5 + 5; đáp án là 10. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 30,
+    "question": "Câu hỏi mẫu 30: 22 − 7 bằng bao nhiêu?",
+    "answers": [
+      "16",
+      "14",
+      "15",
+      "17"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 30 của phần 2. Hãy tính 22 − 7; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 31,
+    "question": "Câu hỏi mẫu 31: 10 × 3 bằng bao nhiêu?",
+    "answers": [
+      "31",
+      "30",
+      "29",
+      "32"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 31 của phần 2. Hãy tính 10 × 3; đáp án là 30. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 32,
+    "question": "Câu hỏi mẫu 32: 8 + 8 bằng bao nhiêu?",
+    "answers": [
+      "16",
+      "17",
+      "15",
+      "18"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 32 của phần 2. Hãy tính 8 + 8; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 33,
+    "question": "Câu hỏi mẫu 33: 25 − 2 bằng bao nhiêu?",
+    "answers": [
+      "24",
+      "22",
+      "25",
+      "23"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 33 của phần 2. Hãy tính 25 − 2; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 34,
+    "question": "Câu hỏi mẫu 34: 4 × 6 bằng bao nhiêu?",
+    "answers": [
+      "25",
+      "23",
+      "24",
+      "26"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 34 của phần 2. Hãy tính 4 × 6; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 35,
+    "question": "Câu hỏi mẫu 35: 11 + 11 bằng bao nhiêu?",
+    "answers": [
+      "23",
+      "22",
+      "21",
+      "24"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 35 của phần 2. Hãy tính 11 + 11; đáp án là 22. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 36,
+    "question": "Câu hỏi mẫu 36: 13 − 5 bằng bao nhiêu?",
+    "answers": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 36 của phần 2. Hãy tính 13 − 5; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 37,
+    "question": "Câu hỏi mẫu 37: 7 × 2 bằng bao nhiêu?",
+    "answers": [
+      "15",
+      "13",
+      "16",
+      "14"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 37 của phần 2. Hãy tính 7 × 2; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 38,
+    "question": "Câu hỏi mẫu 38: 14 + 3 bằng bao nhiêu?",
+    "answers": [
+      "18",
+      "16",
+      "17",
+      "19"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 38 của phần 2. Hãy tính 14 + 3; đáp án là 17. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 39,
+    "question": "Câu hỏi mẫu 39: 16 − 8 bằng bao nhiêu?",
+    "answers": [
+      "9",
+      "8",
+      "7",
+      "10"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 39 của phần 2. Hãy tính 16 − 8; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 40,
+    "question": "Câu hỏi mẫu 40: 10 × 5 bằng bao nhiêu?",
+    "answers": [
+      "50",
+      "51",
+      "49",
+      "52"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 40 của phần 2. Hãy tính 10 × 5; đáp án là 50. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 41,
+    "question": "Câu hỏi mẫu 41: 17 + 6 bằng bao nhiêu?",
+    "answers": [
+      "24",
+      "22",
+      "25",
+      "23"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 41 của phần 2. Hãy tính 17 + 6; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 42,
+    "question": "Câu hỏi mẫu 42: 19 − 3 bằng bao nhiêu?",
+    "answers": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "correct": 2,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 42 của phần 2. Hãy tính 19 − 3; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 43,
+    "question": "Câu hỏi mẫu 43: 4 × 8 bằng bao nhiêu?",
+    "answers": [
+      "33",
+      "32",
+      "31",
+      "34"
+    ],
+    "correct": 1,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 43 của phần 2. Hãy tính 4 × 8; đáp án là 32. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 44,
+    "question": "Câu hỏi mẫu 44: 20 + 9 bằng bao nhiêu?",
+    "answers": [
+      "29",
+      "30",
+      "28",
+      "31"
+    ],
+    "correct": 0,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 44 của phần 2. Hãy tính 20 + 9; đáp án là 29. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  },
+  {
+    "id": 45,
+    "question": "Câu hỏi mẫu 45: 22 − 6 bằng bao nhiêu?",
+    "answers": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "correct": 3,
+    "note": "Đây là câu hỏi dữ liệu mẫu số 45 của phần 2. Hãy tính 22 − 6; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+  }
+]
