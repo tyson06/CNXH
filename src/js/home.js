@@ -1,6 +1,7 @@
 import '../css/global.css';
+import './theme.js';
 import { QUIZZES } from './config.js';
-import { saveAttempt } from './storage.js';
+import { saveAttempt, clearResult } from './storage.js';
 
 const list = document.querySelector('#quiz-list');
 list.innerHTML = QUIZZES.map((quiz, index) => `
@@ -13,6 +14,8 @@ list.innerHTML = QUIZZES.map((quiz, index) => `
 list.addEventListener('click', (event) => {
   const button = event.target.closest('[data-quiz]');
   if (!button) return;
-  saveAttempt({ quizId: button.dataset.quiz, currentQuestionIndex: 0, answers: [] });
+    const quiz = QUIZZES.find((item) => item.id === button.dataset.quiz);
+    saveAttempt({ quizId: quiz.id, currentQuestionIndex: 0, answers: Array(quiz.count).fill(null), history: Array.from({ length: quiz.count }, () => []) });
+    clearResult();
   window.location.href = new URL('quiz.html', window.location.href).href;
 });

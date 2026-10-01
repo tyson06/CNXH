@@ -1,542 +1,542 @@
 [
   {
     "id": 1,
-    "question": "Câu hỏi mẫu 1: 7 × 8 bằng bao nhiêu?",
+    "question": "Chọn cụm từ thích hợp và chỗ trống để được luận điểm đúng:",
     "answers": [
-      "57",
-      "55",
-      "58",
-      "56"
+      "Trí thức",
+      "Nông dân",
+      "Tư sản",
+      "Tiểu thương"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 1 của phần 2. Hãy tính 7 × 8; đáp án là 56. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần II: LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH (trang 174 Giáo Trình)"
   },
   {
     "id": 2,
-    "question": "Câu hỏi mẫu 2: 12 + 11 bằng bao nhiêu?",
+    "question": "Thêm cụm từ thích hợp vào chỗ trống của câu sau để được câu đúng: “ Cơ cấu xã hội là những… cùng toàn bộ những mối quan hệ xã hội do sự tác động lẫn nhau của các cộng đồng ấy tạo nên”.",
     "answers": [
-      "24",
-      "22",
-      "23",
-      "25"
+      "Cộng đồng dân cư",
+      "Cộng đồng dân tộc",
+      "Cộng đồng nghề nghiệp",
+      "Cộng đồng người"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 2 của phần 2. Hãy tính 12 + 11; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần I, mục 1a: Khái niệm cơ cấu xã hội và cơ cấu xã hội - giai cấp (trang 166 Giáo Trình)"
   },
   {
     "id": 3,
-    "question": "Câu hỏi mẫu 3: 25 − 4 bằng bao nhiêu?",
+    "question": "Trong cách mạng xã hội chủ nghĩa, dưới sự lãnh đạo của Đảng Cộng sản, giai cấp công nhân phải liên minh với giai cấp, tầng lớp nào?",
     "answers": [
-      "22",
-      "21",
-      "20",
-      "23"
+      "Giai cấp nông dân và giai cấp tư sản",
+      "Tầng lớp trí thức và tầng lớp tiểu chủ",
+      "Tầng lớp trí thức và tầng lớp doanh nhân",
+      "Giai cấp nông dân và các tầng lớp nhân dân lao động"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 3 của phần 2. Hãy tính 25 − 4; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần II: LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH (trang 174 Giáo Trình)"
   },
   {
     "id": 4,
-    "question": "Câu hỏi mẫu 4: 10 × 4 bằng bao nhiêu?",
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội - giai cấp biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh nhằm mục đích cốt lõi nào dưới đây?",
     "answers": [
-      "40",
-      "41",
-      "39",
-      "42"
+      "Từng bước xoá bỏ nghèo đói và nâng cao mức sống toàn dân.",
+      "Từng bước xoá bỏ bất bình đẳng xã hội dẫn đến sự xích lại gần nhau.",
+      "Từng bước xoá bỏ hoàn toàn các giai cấp để đi thẳng lên cộng sản.",
+      "Từng bước xoá bỏ triệt để sự khác biệt về thu nhập cá nhân."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 4 của phần 2. Hãy tính 10 × 4; đáp án là 40. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 2: Sự biến đổi có tính quy luật của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội (trang 171 Giáo Trình)"
   },
   {
     "id": 5,
-    "question": "Câu hỏi mẫu 5: 15 + 3 bằng bao nhiêu?",
+    "question": "Theo V.I.Lênin, đâu là vấn đề mang tính nguyên tắc để đảm bảo cho thắng lợi của cuộc cách mạng xã hội chủ nghĩa tháng Mười Nga năm 1917 ?",
     "answers": [
-      "19",
-      "17",
-      "20",
-      "18"
+      "Liên minh công, nông",
+      "Liên minh công, nông và trí thức",
+      "Liên minh công, tầng lớp lao động",
+      "Không có câu trả lời đúng"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 5 của phần 2. Hãy tính 15 + 3; đáp án là 18. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần II: LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH (trang 174 Giáo Trình)"
   },
   {
     "id": 6,
-    "question": "Câu hỏi mẫu 6: 13 − 7 bằng bao nhiêu?",
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nhiệm vụ trung tâm là phát triển kinh tế, tiến hành công nghiệp hoá, hiện đại hoá. Vậy giai cấp nào là lực lượng đi đầu thực hiện quá trình này ?",
     "answers": [
-      "7",
-      "5",
-      "6",
-      "8"
+      "Giai cấp công nhân",
+      "Giai cấp nông dân",
+      "Đội ngũ tri thức",
+      "Đội ngũ doanh nhân"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 6 của phần 2. Hãy tính 13 − 7; đáp án là 6. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần III,mục 1:Cơ cấu xã hội-giai cấp trong thời kỳquá độ lên CNXH ở Việt Nam (trang 179 Giáo Trình)"
   },
   {
     "id": 7,
-    "question": "Câu hỏi mẫu 7: 4 × 7 bằng bao nhiêu?",
+    "question": "Cơ cấu xã hội nào có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác?",
     "answers": [
-      "29",
-      "28",
-      "27",
-      "30"
+      "Cơ cấu xã hội – dân cư",
+      "Cơ cấu xã hội – nghề nghiệp",
+      "Cơ cấu xã hội – giai cấp",
+      "Cơ cấu xã hội – tôn giáo"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 7 của phần 2. Hãy tính 4 × 7; đáp án là 28. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.b: Vị trí cơ cấu xã hội - giai cấp trong cơ cấu xã hội (trang 167 Giáo Trình)"
   },
   {
     "id": 8,
-    "question": "Câu hỏi mẫu 8: 18 + 6 bằng bao nhiêu?",
+    "question": "Khối liên minh giai cấp công nhân với giai cấp nông dân và tầng lớp trí thức trong thời kỳ quá độ lên chủ nghĩa xã hội được hình thành xuất phát từ:",
     "answers": [
-      "24",
-      "25",
-      "23",
-      "26"
+      "Nhu cầu và lợi ích chính trị",
+      "Nhu cầu và lợi ích xã hội",
+      "Nhu cầu và lợi ích văn hoá",
+      "Nhu cầu và lợi ích kinh tế"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 8 của phần 2. Hãy tính 18 + 6; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần II: LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH (trang 176 Giáo Trình)"
   },
   {
     "id": 9,
-    "question": "Câu hỏi mẫu 9: 16 − 2 bằng bao nhiêu?",
+    "question": "Khái niệm nào dưới đây phản ánh đúng bản chất của cơ cấu xã hội – giai cấp",
     "answers": [
-      "15",
-      "13",
-      "16",
-      "14"
+      "Là những cộng đồng người và toàn bộ mối quan hệ xã hội do sự tác động qua lại giữa các cộng đồng đó tạo nên.",
+      "Là tổng thể các tổ chức chính trị – xã hội cùng mối quan hệ biện chứng giữa các tổ chức đó trong một quốc gia.",
+      "Là hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan, gắn liền với các quan hệ sở hữu tư liệu sản xuất, tổ chức quản lý và địa vị chính trị – xã hội.",
+      "Là những cộng đồng người phân theo nghề nghiệp hoặc vùng miền, có sự độc lập tuyệt đối về mặt lợi ích kinh tế."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 9 của phần 2. Hãy tính 16 − 2; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Khái niệm cơ cấu xã hội và cơ cấu xã hội - giai cấp (trang 166 Giáo Trình)"
   },
   {
     "id": 10,
-    "question": "Câu hỏi mẫu 10: 7 × 3 bằng bao nhiêu?",
+    "question": "Đội ngũ nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hoá, hiện đại hoá đất nước và hội nhập quốc tế, xây dựng kinh tế tri thức, phát triển nền văn hoá Việt Nam tiên tiến, đậm đà bản sắc dân tộc ?",
     "answers": [
-      "22",
-      "20",
-      "21",
-      "23"
+      "Công nhân",
+      "Nông dân",
+      "Trí thức",
+      "Thanh niên"
     ],
     "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 10 của phần 2. Hãy tính 7 × 3; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần III, mục 1: Cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên CNXH ở Việt Nam (trang 180 Giáo Trình)"
   },
   {
     "id": 11,
-    "question": "Câu hỏi mẫu 11: 4 + 9 bằng bao nhiêu?",
+    "question": "Xét dưới góc độ chính trị, để tập hợp lực lượng trong cuộc đấu tranh giai cấp, giai cấp đứng ở vị trí trung tâm bắt buộc phải thực hiện yêu cầu tất yếu khách quan nào?",
     "answers": [
-      "14",
-      "13",
-      "12",
-      "15"
+      "Liên minh với các giai cấp có lợi ích đối lập để giảm bớt xung đột.",
+      "Liên minh với các giai cấp, tầng lớp có lợi ích phù hợp để thực hiện mục tiêu chung.",
+      "Độc lập đấu tranh mà không cần sự ủng hộ từ các tầng lớp xã hội khác",
+      "Chỉ liên minh với những lực lượng cam kết ủng hộ mình vô điều kiện."
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 11 của phần 2. Hãy tính 4 + 9; đáp án là 13. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần II: LIÊN MINH GIAI CẤP, TẦNG LỚP TRONG THỜI KỲ QUÁ ĐỘ LÊN CNXH (trang 173 Giáo Trình)"
   },
   {
     "id": 12,
-    "question": "Câu hỏi mẫu 12: 19 − 5 bằng bao nhiêu?",
+    "question": "Sự biến đổi của cơ cấu xã hội – giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội gắn liền và bị quy định bởi cơ cấu nào sau đây?",
     "answers": [
-      "14",
-      "15",
-      "13",
-      "16"
+      "Cơ cấu dân số",
+      "Cơ cấu kinh tế",
+      "Cơ cấu lãnh thổ",
+      "Cơ cấu nghề nghiệp"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 12 của phần 2. Hãy tính 19 − 5; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc phần I,mục 2:Sự biến đổi có tính quy luật của cơ cấu xã hội-giai cấp trong thời kỳ quá độ lên CNXH (trang 168 Giáo Trình)"
   },
   {
     "id": 13,
-    "question": "Câu hỏi mẫu 13: 10 × 6 bằng bao nhiêu?",
+    "question": "Theo C.Mác và Ph.Ăngghen, nhiều cuộc đấu tranh của giai cấp công nhân ở châu Âu, nhất là ở nước Anh và Pháp từ giữa thế kỷ XIX thất bại là do:",
     "answers": [
-      "61",
-      "59",
-      "62",
-      "60"
+      "Không tổ chức liên minh với tầng lớp trí thức",
+      "Không tổ chức liên minh với giai cấp tư sản",
+      "Không tổ chức liên minh với giai cấp nông dân",
+      "Không tổ chức liên minh với tầng lớp tiểu chủ"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 13 của phần 2. Hãy tính 10 × 6; đáp án là 60. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc phần II.Liên Minh Giai Cấp,Tầng Lớp Trong Thời Kỳ Quá Độ Lên CNXH (trang 173 Giáo Trình)"
   },
   {
     "id": 14,
-    "question": "Câu hỏi mẫu 14: 7 + 12 bằng bao nhiêu?",
+    "question": "Đâu là nội dung cơ bản quyết định nhất, là cơ sở vật chất – kỹ thuật của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam?",
     "answers": [
-      "20",
-      "18",
-      "19",
-      "21"
+      "Nội dung kinh tế của liên minh",
+      "Nội dung chính trị của liên minh",
+      "Nội dung văn hoá xã hội của liên minh",
+      "Tất cả đều đúng"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 14 của phần 2. Hãy tính 7 + 12; đáp án là 19. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần III,mục 2a:Nội dung của liên minh giai cấp,tầng lớp trong thời kỳ quá độ lên CNXH ở Việt Nam,nội dung kinh tế của liên minh (trang 183 Giáo Trình)"
   },
   {
     "id": 15,
-    "question": "Câu hỏi mẫu 15: 22 − 8 bằng bao nhiêu?",
+    "question": "Nội dung chính trị của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam đòi hỏi phải giữ vững lập trường chính trị - tư tưởng của giai cấp nào?",
     "answers": [
-      "15",
-      "14",
-      "13",
-      "16"
+      "Giai cấp công nhân",
+      "Giai cấp nông dân",
+      "Tầng lớp trí thức",
+      "Giai cấp tư sản"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 15 của phần 2. Hãy tính 22 − 8; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần III,mục 2a:Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH ở Việt Nam (trang 185 Giáo trình)"
   },
   {
     "id": 16,
-    "question": "Câu hỏi mẫu 16: 4 × 2 bằng bao nhiêu?",
+    "question": "Theo nghĩa rộng, dân tộc (Nation) được hiểu là:",
     "answers": [
-      "8",
-      "9",
-      "7",
-      "10"
+      "Một nhóm người có cùng tín ngưỡng",
+      "Một cộng đồng người ổn định làm thành nhân dân một nước",
+      "Một cộng đồng người chỉ có chung ngôn ngữ",
+      "Một nhóm người cùng sinh sống trong một làng"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 16 của phần 2. Hãy tính 4 × 2; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 1: khái niệm (trang 196 Giáo trình)"
   },
   {
     "id": 17,
-    "question": "Câu hỏi mẫu 17: 10 + 4 bằng bao nhiêu?",
+    "question": "Theo giáo trình, đặc trưng nào được xác định là quan trọng nhất của dân tộc?",
     "answers": [
-      "15",
-      "13",
-      "16",
-      "14"
+      "Có chung một vùng lãnh thổ ổn định",
+      "Có chung một ngôn ngữ",
+      "Có chung một phương thức sinh hoạt kinh tế",
+      "Có chung một nền văn hóa"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 17 của phần 2. Hãy tính 10 + 4; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1: khái niệm (trang 197-198 Giáo Trình)"
   },
   {
     "id": 18,
-    "question": "Câu hỏi mẫu 18: 25 − 3 bằng bao nhiêu?",
+    "question": "Đặc trưng nào phản ánh đời sống tinh thần và bản sắc riêng của một dân tộc?",
     "answers": [
-      "23",
-      "21",
-      "22",
-      "24"
+      "Chung phương thức sản xuất",
+      "Chung nhà nước",
+      "Chung văn hóa và tâm lý",
+      "Chung lãnh thổ"
     ],
     "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 18 của phần 2. Hãy tính 25 − 3; đáp án là 22. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần I, mục 1: khái niệm (trang 198-199 Giáo Trình)"
   },
   {
     "id": 19,
-    "question": "Câu hỏi mẫu 19: 7 × 5 bằng bao nhiêu?",
+    "question": "Cương lĩnh dân tộc của chủ nghĩa Mác – Lênin đã khái quát:",
     "answers": [
-      "36",
-      "35",
-      "34",
-      "37"
+      "Bình đẳng dân tộc, quyền dân tộc tự quyết, liên hiệp công nhân tất cả các dân tộc lại",
+      "Độc lập, tự do, hạnh phúc",
+      "Dân chủ, pháp quyền, kinh tế thị trường",
+      "Đoàn kết, phát triển, hội nhập"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 19 của phần 2. Hãy tính 7 × 5; đáp án là 35. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 2.b: Cương lĩnh dân tộc của chủ nghĩa Mác-Lê Nin (trang 203-204 Giáo Trình)"
   },
   {
     "id": 20,
-    "question": "Câu hỏi mẫu 20: 13 + 7 bằng bao nhiêu?",
+    "question": "Nội dung “các dân tộc hoàn toàn bình đẳng” có nghĩa là:",
     "answers": [
-      "20",
-      "21",
-      "19",
-      "22"
+      "Chỉ các dân tộc lớn mới có quyền bình đẳng",
+      "Các dân tộc có nghĩa vụ và quyền lợi ngang nhau trên tất cả lĩnh vực của đời sống xã hội",
+      "Các dân tộc phải có cùng trình độ phát triển",
+      "Các dân tộc phải có cùng văn hóa"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 20 của phần 2. Hãy tính 13 + 7; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 2.b: Cương lĩnh dân tộc của chủ nghĩa Mác-Lê Nin (trang 204 Giáo Trình)"
   },
   {
     "id": 21,
-    "question": "Câu hỏi mẫu 21: 13 − 6 bằng bao nhiêu?",
+    "question": "Một đặc điểm nổi bật của các dân tộc ở Việt Nam là:",
     "answers": [
-      "8",
-      "6",
-      "9",
-      "7"
+      "Các dân tộc cư trú biệt lập hoàn toàn",
+      "Các dân tộc cư trú xen kẽ nhau",
+      "Mỗi dân tộc có lãnh thổ riêng biệt",
+      "Các dân tộc chỉ cư trú ở đồng bằng"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 21 của phần 2. Hãy tính 13 − 6; đáp án là 7. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 3: Dân tộc và quan hệ dân tộc ở Việt Nam (trang 206 Giáo Trình)"
   },
   {
     "id": 22,
-    "question": "Câu hỏi mẫu 22: 10 × 8 bằng bao nhiêu?",
+    "question": "Theo chủ nghĩa Mác – Lênin, nguồn gốc tự nhiên, kinh tế – xã hội của tôn giáo gắn với điều kiện nào?",
     "answers": [
-      "81",
-      "79",
-      "80",
-      "82"
+      "Lực lượng sản xuất phát triển rất cao",
+      "Con người hoàn toàn làm chủ tự nhiên",
+      "Lực lượng sản xuất chưa phát triển, con người cảm thấy yếu đuối và bất lực trước tự nhiên",
+      "Xã hội không có bất kỳ khó khăn nào"
     ],
     "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 22 của phần 2. Hãy tính 10 × 8; đáp án là 80. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần II, mục 1.a: Bản chất, nguồn gốc và tính chất của tôn giáo (trang 216 Giáo Trình)"
   },
   {
     "id": 23,
-    "question": "Câu hỏi mẫu 23: 16 + 10 bằng bao nhiêu?",
+    "question": "Nguồn gốc tâm lý của tôn giáo có thể xuất phát từ:",
     "answers": [
-      "27",
-      "26",
-      "25",
-      "28"
+      "Sự sợ hãi trước các hiện tượng tự nhiên, xã hội",
+      "Chỉ từ hoạt động kinh tế",
+      "Chỉ từ hoạt động chính trị",
+      "Chỉ từ sự phát triển của khoa học"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 23 của phần 2. Hãy tính 16 + 10; đáp án là 26. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần II, mục 1.a: Bản chất, nguồn gốc và tính chất của tôn giáo (trang 217 Giáo Trình)"
   },
   {
     "id": 24,
-    "question": "Câu hỏi mẫu 24: 16 − 1 bằng bao nhiêu?",
+    "question": "Theo giáo trình, tôn giáo có những tính chất cơ bản nào?",
     "answers": [
-      "15",
-      "16",
-      "14",
-      "17"
+      "Tính lịch sử, tính quần chúng, tính chính trị",
+      "Tính kinh tế, tính pháp luật, tính chính trị",
+      "Tính dân tộc, tính quốc tế, tính kinh tế",
+      "Tính tự nhiên, tính pháp lý, tính xã hội"
     ],
     "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 24 của phần 2. Hãy tính 16 − 1; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần II, mục 1.a: Bản chất, nguồn gốc và tính chất của tôn giáo (trang 218–219 Giáo Trình)"
   },
   {
     "id": 25,
-    "question": "Câu hỏi mẫu 25: 4 × 4 bằng bao nhiêu?",
+    "question": "Tôn giáo là một hiện tượng có tính:",
     "answers": [
-      "17",
-      "15",
-      "18",
-      "16"
+      "Lịch sử",
+      "Bất biến",
+      "Vĩnh viễn không thay đổi",
+      "Chỉ mang tính cá nhân"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 25 của phần 2. Hãy tính 4 × 4; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần II, mục 1.a: Bản chất, nguồn gốc và tính chất của tôn giáo (trang 218 Giáo Trình)"
   },
   {
     "id": 26,
-    "question": "Câu hỏi mẫu 26: 19 + 2 bằng bao nhiêu?",
+    "question": "Theo giáo trình, để khắc phục những ảnh hưởng tiêu cực của tôn giáo cần gắn với:",
     "answers": [
-      "22",
-      "20",
-      "21",
-      "23"
+      "Quá trình cải tạo xã hội cũ, xây dựng xã hội mới",
+      "Việc can thiệp vào nội bộ của các tôn giáo",
+      "Việc cấm sinh hoạt tôn giáo",
+      "Việc xóa bỏ quyền tự do tín ngưỡng"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 26 của phần 2. Hãy tính 19 + 2; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần II, mục 1.b: Nguyên tắc giải quyết vấn đề tôn giáo trong thời kỳ quá độ lên xã hội chủ nghĩa (trang 220 Giáo Trình)"
   },
   {
     "id": 27,
-    "question": "Câu hỏi mẫu 27: 19 − 4 bằng bao nhiêu?",
+    "question": "Theo giáo trình, nội dung cốt lõi của công tác tôn giáo là:",
     "answers": [
-      "16",
-      "15",
-      "14",
-      "17"
+      "Công tác quản lý hành chính",
+      "Công tác vận động quần chúng",
+      "Công tác phát triển kinh tế",
+      "Công tác đối ngoại"
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 27 của phần 2. Hãy tính 19 − 4; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần II, mục 2.b: Chính sách của Đảng, Nhà nước Việt Nam đối với tín ngưỡng, tôn giáo hiện nay (trang 227 Giáo Trình)"
   },
   {
     "id": 28,
-    "question": "Câu hỏi mẫu 28: 7 × 7 bằng bao nhiêu?",
+    "question": "Quan hệ dân tộc và tôn giáo được hiểu là:",
     "answers": [
-      "49",
-      "50",
-      "48",
-      "51"
+      "Sự tách biệt giữa dân tộc và tôn giáo",
+      "Sự liên kết, tác động qua lại, chi phối lẫn nhau giữa dân tộc với tôn giáo",
+      "Sự thống nhất giữa các tôn giáo",
+      "Sự cạnh tranh giữa các dân tộc"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 28 của phần 2. Hãy tính 7 × 7; đáp án là 49. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần III, mục 1: Đặc điểm quan hệ dân tộc và tôn giáo ở Việt Nam (trang 228 Giáo Trình)"
   },
   {
     "id": 29,
-    "question": "Câu hỏi mẫu 29: 5 + 5 bằng bao nhiêu?",
+    "question": "Ở cấp độ gia đình, dòng họ, hoạt động tín ngưỡng phổ biến là:",
     "answers": [
-      "11",
-      "9",
-      "12",
-      "10"
+      "Thờ cúng tổ tiên",
+      "Thờ Thành hoàng làng",
+      "Thờ các vị vua nước ngoài",
+      "Thờ các lực lượng chính trị"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 29 của phần 2. Hãy tính 5 + 5; đáp án là 10. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần III, mục 1.b: Quan hệ dân tộc và tôn giáo ở Việt Nam chịu sự chi phối mạnh mẽ của tín ngưỡng truyền thống (trang 230 Giáo Trình)"
   },
   {
     "id": 30,
-    "question": "Câu hỏi mẫu 30: 22 − 7 bằng bao nhiêu?",
+    "question": "Một số hiện tượng tôn giáo mới có thể tác động tiêu cực đến:",
     "answers": [
-      "16",
-      "14",
-      "15",
-      "17"
+      "Khối đại đoàn kết toàn dân tộc",
+      "Chỉ hoạt động kinh tế",
+      "Chỉ hoạt động giáo dục",
+      "Chỉ hoạt động văn hóa"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 30 của phần 2. Hãy tính 22 − 7; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần III, mục 1.c: Các hiện tượng tôn giáo mới có xu hướng phát triển mạnh tác động đến đời sống cộng đồng và khối đại đoàn kết dân tộc (trang 232 Giáo Trình)"
   },
   {
     "id": 31,
-    "question": "Câu hỏi mẫu 31: 10 × 3 bằng bao nhiêu?",
+    "question": "Theo C. Mác và Ph. Ăngghen, quan hệ nào được coi là “quan hệ thứ ba” tham dự ngay từ đầu vào quá trình phát triển lịch sử?",
     "answers": [
-      "31",
-      "30",
-      "29",
-      "32"
+      "Quan hệ giữa giai cấp tư sản và vô sản.",
+      "Quan hệ giữa chồng và vợ, cha mẹ và con cái (gia đình).",
+      "Quan hệ giữa nhà nước và công dân.",
+      "Quan hệ giữa lực lượng sản xuất và quan hệ sản xuất."
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 31 của phần 2. Hãy tính 10 × 3; đáp án là 30. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 1: Khái niệm gia đình (trang 240 Giáo Trình)"
   },
   {
     "id": 32,
-    "question": "Câu hỏi mẫu 32: 8 + 8 bằng bao nhiêu?",
+    "question": "Ngoài quan hệ hôn nhân và huyết thống, gia đình còn nảy sinh quan hệ nào mang tính trách nhiệm và quyền lợi thiêng liêng?",
     "answers": [
-      "16",
-      "17",
-      "15",
-      "18"
+      "Quan hệ nuôi dưỡng.",
+      "Quan hệ chính trị.",
+      "Quan hệ thương mại.",
+      "Quan hệ tôn giáo."
     ],
     "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 32 của phần 2. Hãy tính 8 + 8; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 1: Khái niệm gia đình (trang 240-241 Giáo Trình)"
   },
   {
     "id": 33,
-    "question": "Câu hỏi mẫu 33: 25 − 2 bằng bao nhiêu?",
+    "question": "Ph. Ăngghen cho rằng những trật tự xã hội của một thời đại lịch sử nhất định được quyết định bởi hai loại sản xuất. Loại thứ nhất là gì?",
     "answers": [
-      "24",
-      "22",
-      "25",
-      "23"
+      "Sản xuất ra tư liệu sinh hoạt, thực phẩm, quần áo, nhà ở và công cụ.",
+      "Sản xuất ra con người.",
+      "Sản xuất ra tư tưởng.",
+      "Quan hệ giai cấp."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 33 của phần 2. Hãy tính 25 − 2; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần I, mục 2.a: Gia đình là tế bào của xã hội (trang 241-242 Giáo Trình)"
   },
   {
     "id": 34,
-    "question": "Câu hỏi mẫu 34: 4 × 6 bằng bao nhiêu?",
+    "question": "Hồ Chí Minh nhấn mạnh mối quan hệ giữa gia đình và xã hội bằng câu nào?",
     "answers": [
-      "25",
-      "23",
-      "24",
-      "26"
+      "“Xã hội tốt thì gia đình càng tốt, gia đình tốt thì xã hội mới tốt”.",
+      "“Gia đình quyết định tất cả”.",
+      "“Xã hội không cần gia đình”.",
+      "“Gia đình chỉ là đơn vị kinh tế”."
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 34 của phần 2. Hãy tính 4 × 6; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần I, mục 2.a: Gia đình là tế bào của xã hội (trang 242 Giáo Trình)"
   },
   {
     "id": 35,
-    "question": "Câu hỏi mẫu 35: 11 + 11 bằng bao nhiêu?",
+    "question": "Trong xã hội phong kiến, quan hệ gia đình mang đặc điểm nổi bật nào?",
     "answers": [
-      "23",
-      "22",
-      "21",
-      "24"
+      "Bình đẳng giữa vợ và chồng.",
+      "Quan hệ gia trưởng, độc đoán, chuyên quyền, quy định khắt khe đối với phụ nữ.",
+      "Hôn nhân tự nguyện hoàn toàn.",
+      "Không có sự phân biệt nam nữ."
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 35 của phần 2. Hãy tính 11 + 11; đáp án là 22. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 2.c: Gia đình là cầu nối giữa cá nhân với xã hội (trang 244-245 Giáo Trình)"
   },
   {
     "id": 36,
-    "question": "Câu hỏi mẫu 36: 13 − 5 bằng bao nhiêu?",
+    "question": "Hồ Chí Minh khẳng định: “Nếu không giải phóng phụ nữ là xây dựng chủ nghĩa xã hội chỉ một nửa”. Điều này nhấn mạnh điều gì?",
     "answers": [
-      "8",
-      "9",
-      "7",
-      "10"
+      "Vai trò quyết định của phụ nữ trong xây dựng chủ nghĩa xã hội.",
+      "Chỉ cần giải phóng nam giới.",
+      "Phụ nữ không cần tham gia cách mạng.",
+      "Gia đình không liên quan đến chủ nghĩa xã hội."
     ],
     "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 36 của phần 2. Hãy tính 13 − 5; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 2.c: Gia đình là cầu nối giữa cá nhân với xã hội (trang 245 Giáo Trình)"
   },
   {
     "id": 37,
-    "question": "Câu hỏi mẫu 37: 7 × 2 bằng bao nhiêu?",
+    "question": "Chức năng nào của gia đình đáp ứng nhu cầu duy trì nòi giống, cung cấp sức lao động và đảm bảo sự trường tồn của xã hội?",
     "answers": [
-      "15",
-      "13",
-      "16",
-      "14"
+      "Chức năng kinh tế.",
+      "Chức năng tái sản xuất ra con người.",
+      "Chức năng thỏa mãn nhu cầu tâm sinh lý.",
+      "Chức năng văn hóa."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 37 của phần 2. Hãy tính 7 × 2; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc phần I, mục 3.a: Chức năng tái sản xuất ra con người (trang 245 Giáo Trình)"
   },
   {
     "id": 38,
-    "question": "Câu hỏi mẫu 38: 14 + 3 bằng bao nhiêu?",
+    "question": "Theo V.I. Lênin, việc thủ tiêu chế độ tư hữu về ruộng đất, công xưởng và nhà máy mở đường cho điều gì?",
     "answers": [
-      "18",
-      "16",
-      "17",
-      "19"
+      "Giải phóng hoàn toàn và thật sự cho phụ nữ, thủ tiêu “chế độ nô lệ gia đình”.",
+      "Tăng cường quyền lực của người đàn ông trong gia đình.",
+      "Duy trì nền kinh tế gia đình cá thể.",
+      "Hạn chế quyền của phụ nữ."
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 38 của phần 2. Hãy tính 14 + 3; đáp án là 17. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần II, mục 1: Cơ sở kinh tế – xã hội (trang 250-251 Giáo Trình)"
   },
   {
     "id": 39,
-    "question": "Câu hỏi mẫu 39: 16 − 8 bằng bao nhiêu?",
+    "question": "Ph. Ăngghen cho rằng khi tư liệu sản xuất chuyển thành tài sản chung thì gia đình cá thể sẽ không còn là gì nữa?",
     "answers": [
-      "9",
-      "8",
-      "7",
-      "10"
+      "Nơi tái sản xuất con người.",
+      "Tổ ấm tình cảm.",
+      "Môi trường giáo dục.",
+      "Đơn vị kinh tế của xã hội."
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 39 của phần 2. Hãy tính 16 − 8; đáp án là 8. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc phần II, mục 1: Cơ sở kinh tế – xã hội (trang 251 Giáo Trình)"
   },
   {
     "id": 40,
-    "question": "Câu hỏi mẫu 40: 10 × 5 bằng bao nhiêu?",
+    "question": "Chính quyền Xô viết được V.I. Lênin đánh giá là chính quyền đầu tiên và duy nhất trên thế giới đã hủy bỏ điều gì?",
     "answers": [
-      "50",
-      "51",
-      "49",
-      "52"
+      ". Luật hôn nhân tiến bộ.",
+      "Quyền bình đẳng nam nữ.",
+      "Tất cả những đặc quyền gắn liền với chế độ tư hữu, đặc quyền của người đàn ông trong gia đình.",
+      "Quyền ly hôn."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 40 của phần 2. Hãy tính 10 × 5; đáp án là 50. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc phần II, mục 2: Cơ sở chính trị – xã hội (trang 252 Giáo Trình)"
   },
   {
     "id": 41,
-    "question": "Câu hỏi mẫu 41: 17 + 6 bằng bao nhiêu?",
+    "question": "Theo Ph. Ăngghen, hôn nhân chỉ hợp đạo đức khi dựa trên cơ sở nào?",
     "answers": [
-      "24",
-      "22",
-      "25",
-      "23"
+      "Tài sản.",
+      "Địa vị xã hội.",
+      "Tình yêu.",
+      "Ý muốn của cha mẹ."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 41 của phần 2. Hãy tính 17 + 6; đáp án là 23. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc phần II, mục 4: Chế độ hôn nhân tiến bộ (trang 254 Giáo Trình)"
   },
   {
     "id": 42,
-    "question": "Câu hỏi mẫu 42: 19 − 3 bằng bao nhiêu?",
+    "question": "Trong gia đình truyền thống Việt Nam, nhu cầu về con cái thể hiện trên ba phương diện nào?",
     "answers": [
-      "17",
-      "15",
-      "16",
-      "18"
+      "Phải có con, càng đông con càng tốt và nhất thiết phải có con trai nối dõi.",
+      "Chỉ cần có một con gái.",
+      "Không cần có con.",
+      "Chỉ cần có con nuôi."
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 42 của phần 2. Hãy tính 19 − 3; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần III, mục 2.a:Chức năng tái sản xuất ra con người (trang 260 Giáo Trình)"
   },
   {
     "id": 43,
-    "question": "Câu hỏi mẫu 43: 4 × 8 bằng bao nhiêu?",
+    "question": "Hiện nay, kinh tế gia đình Việt Nam đang trở thành bộ phận quan trọng trong nền kinh tế quốc dân nhưng gặp khó khăn lớn do đặc điểm nào?",
     "answers": [
-      "33",
-      "32",
-      "31",
-      "34"
+      "Quy mô quá lớn.",
+      "Quy mô nhỏ, lao động ít và tự sản xuất là chính.",
+      "Không tham gia thị trường.",
+      "Chỉ sản xuất nông nghiệp."
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 43 của phần 2. Hãy tính 4 × 8; đáp án là 32. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần III, mục 2.b: Chức năng kinh tế và tổ chức tiêu dùng (trang 261 Giáo Trình)"
   },
   {
     "id": 44,
-    "question": "Câu hỏi mẫu 44: 20 + 9 bằng bao nhiêu?",
+    "question": "Trong gia đình Việt Nam hiện nay, ngoài mô hình người chồng làm chủ, còn tồn tại những mô hình nào khác?",
     "answers": [
-      "29",
-      "30",
-      "28",
-      "31"
+      "Không có mô hình khác.",
+      "Chỉ ông bà làm chủ.",
+      "Chỉ con cái làm chủ.",
+      "Người vợ làm chủ gia đình và cả hai vợ chồng cùng làm chủ."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 44 của phần 2. Hãy tính 20 + 9; đáp án là 29. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc phần III, mục 3: Biến đổi trong các mối quan hệ gia đình (trang 265 Giáo Trình)"
   },
   {
     "id": 45,
-    "question": "Câu hỏi mẫu 45: 22 − 6 bằng bao nhiêu?",
+    "question": "Phong trào xây dựng gia đình văn hóa được hình thành từ những năm 60 của thế kỷ XX tại địa phương nào?",
     "answers": [
-      "17",
-      "15",
-      "18",
-      "16"
+      "Một địa phương của tỉnh Hưng Yên.",
+      "Hà Nội.",
+      "Thành phố Hồ Chí Minh.",
+      "Đà Nẵng."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 45 của phần 2. Hãy tính 22 − 6; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần III, mục 4: Phương hướng cơ bản xây dựng và phát triển gia đình Việt Nam (trang 268 Giáo Trình)"
   }
 ]

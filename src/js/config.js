@@ -11,4 +11,5 @@ export const QUIZ_DATA_URLS = {
 export const STORAGE_KEYS = {
   active: 'quiz-web:active-attempt',
   result: 'quiz-web:last-result',
+  theme: 'cnxh-quiz:theme',
 };

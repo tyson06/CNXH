@@ -13,3 +13,4 @@ export const saveAttempt = (attempt) => write(STORAGE_KEYS.active, attempt);
 export const clearAttempt = () => { try { sessionStorage.removeItem(STORAGE_KEYS.active); } catch { /* Storage can be unavailable in private contexts. */ } };
 export const readResult = () => read(STORAGE_KEYS.result);
 export const saveResult = (result) => write(STORAGE_KEYS.result, result);
+export const clearResult = () => { try { sessionStorage.removeItem(STORAGE_KEYS.result); } catch { /* Storage can be unavailable in private contexts. */ } };

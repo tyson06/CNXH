@@ -1,482 +1,482 @@
 [
   {
     "id": 1,
-    "question": "Câu hỏi mẫu 1: 13 − 2 bằng bao nhiêu?",
+    "question": "Đối tượng nghiên cứu của CNXHKH là gì?",
     "answers": [
-      "12",
-      "10",
-      "13",
-      "11"
+      "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+      "Là những quy luật hình thành, phát triển và hoàn thiện của các hình thái kinh tế - xã hội.",
+      "Là những quy luật và tính quy luật kinh tế của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội chủ nghĩa xã hội.",
+      "Cả A, B và C."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 1 của phần 1. Hãy tính 13 − 2; đáp án là 11. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần III: Đối tượng nghiên cứu của CNXH khoa học (trang 39-40 Giáo trình)"
   },
   {
     "id": 2,
-    "question": "Câu hỏi mẫu 2: 4 × 4 bằng bao nhiêu?",
+    "question": "Hạn chế của chủ nghĩa xã hội không tưởng trước Mác là…",
     "answers": [
-      "17",
-      "15",
-      "16",
-      "18"
+      "Chưa thấy được sứ mệnh lịch sử của giai cấp công nhân.",
+      "Chưa chỉ ra được con đường đấu tranh cách mạng.",
+      "Không luận chứng được một cách khoa học về bản chất của chủ nghĩa tư bản và quy luật phát triển hình thái kinh tế - xã hội tư bản chủ nghĩa.",
+      "Cả A, B, C đúng."
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 2 của phần 1. Hãy tính 4 × 4; đáp án là 16. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần I, mục 1.b: Tiền đề khoa học tự nhiên và tư tưởng lý luận (trang 16 Giáo trình)"
   },
   {
     "id": 3,
-    "question": "Câu hỏi mẫu 3: 7 + 5 bằng bao nhiêu?",
+    "question": "Ba phát minh vạch thời đại trong vật lý học và sinh học tạo ra bước phát triển đột phá có tính cách mạng:",
     "answers": [
-      "13",
-      "12",
-      "11",
-      "14"
+      "Học thuyết Tiến hóa, Định luật bảo toàn và chuyển hóa năng lượng, Học thuyết tế bào",
+      "Học thuyết Tiến hóa, Học thuyết tế bào, Định luật vạn vật hấp dẫn",
+      "Học thuyết tế bào, Định luật vạn vật hấp dẫn, Thuyết chọn lọc tự nhiên",
+      "Định luật bảo toàn và chuyển hóa năng lượng, Định luật vạn vật hấp dẫn, Học thuyết tế bào"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 3 của phần 1. Hãy tính 7 + 5; đáp án là 12. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 1.b: Tiền đề khoa học tự nhiên và tư tưởng lý luận (trang 16 Giáo trình)"
   },
   {
     "id": 4,
-    "question": "Câu hỏi mẫu 4: 16 − 5 bằng bao nhiêu?",
+    "question": "Trong phương thức sản xuất tư bản chủ nghĩa, mâu thuẫn trong lĩnh vực kinh tế là mâu thuẫn giữa…",
     "answers": [
-      "11",
-      "12",
-      "10",
-      "13"
+      "Lực lượng sản xuất mang tính xã hội hóa với quan hệ sản xuất mang tính xã hội tư bản chủ nghĩa.",
+      "Lực lượng sản xuất mang tính cá nhân với quan hệ sản xuất mang tính xã hội tư bản chủ nghĩa.",
+      "Lực lượng sản xuất mang tính xã hội hóa với quan hệ sản xuất mang tính xã hội tư nhân tư bản chủ nghĩa.",
+      "Lực lượng sản xuất mang tính cá nhân với quan hệ sản xuất mang tính xã hội tư nhân tư bản chủ nghĩa."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 4 của phần 1. Hãy tính 16 − 5; đáp án là 11. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Điều kiện kinh tế - xã hội (trang 13 Giáo trình)"
   },
   {
     "id": 5,
-    "question": "Câu hỏi mẫu 5: 7 × 7 bằng bao nhiêu?",
+    "question": "Trong phương thức sản xuất tư bản chủ nghĩa, mâu thuẫn về phương diện chính trị - xã hội là mâu thuẫn giữa giai cấp…",
     "answers": [
-      "50",
-      "48",
-      "51",
-      "49"
+      "Vô sản với tư sản.",
+      "Chủ nô với nô lệ.",
+      "Nông dân với địa chủ.",
+      "Tất cả các phương án đều sai."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 5 của phần 1. Hãy tính 7 × 7; đáp án là 49. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Điều kiện kinh tế - xã hội (trang 13-14 Giáo trình)"
   },
   {
     "id": 6,
-    "question": "Câu hỏi mẫu 6: 10 + 8 bằng bao nhiêu?",
+    "question": "Ai là người đầu tiên đề cập đến phạm trù hệ thống chuyên chính vô sản, bao gồm hệ thống của Đảng Bôn-sê-vích lãnh đạo, Nhà nước Xô viết quản lý và tổ chức công đoàn?",
     "answers": [
-      "19",
-      "17",
-      "18",
-      "20"
+      "C. Mác",
+      "Ph. Ăngghen",
+      "V.I. Lênin",
+      "Hồ Chí Minh"
     ],
     "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 6 của phần 1. Hãy tính 10 + 8; đáp án là 18. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần I, mục 2.b: Thời kỳ từ sau Cách mạng Tháng Mười Nga (1917) đến năm 1924 (trang 28 Giáo trình)"
   },
   {
     "id": 7,
-    "question": "Câu hỏi mẫu 7: 19 − 8 bằng bao nhiêu?",
+    "question": "Hệ thống chuyên chính vô sản được V.I. Lênin đề cập gồm những thành tố nào?",
     "answers": [
-      "12",
-      "11",
-      "10",
-      "13"
+      "Đảng Bôn-sê-vích",
+      "Nhà nước Xô viết",
+      "Tổ chức công đoàn",
+      "Cả A, B, C"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 7 của phần 1. Hãy tính 19 − 8; đáp án là 11. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần I, mục 2.b: Thời kỳ từ sau Cách mạng Tháng Mười Nga (1917) đến năm 1924 (trang 28 Giáo trình)"
   },
   {
     "id": 8,
-    "question": "Câu hỏi mẫu 8: 10 × 3 bằng bao nhiêu?",
+    "question": "Phương pháp nghiên cứu của chủ nghĩa xã hội khoa học, đó là…?",
     "answers": [
-      "30",
-      "31",
-      "29",
-      "32"
+      "Kết hợp logic và lịch sử",
+      "Thống kê, so sánh",
+      "Phân tích, tổng hợp",
+      "Cả A, B, C"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 8 của phần 1. Hãy tính 10 × 3; đáp án là 30. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần III, mục 2: Phương pháp nghiên cứu của CNXH khoa học (trang 43 Giáo trình)"
   },
   {
     "id": 9,
-    "question": "Câu hỏi mẫu 9: 13 + 11 bằng bao nhiêu?",
+    "question": "Phạm trù trung tâm và xuất phát của chủ nghĩa xã hội khoa học là gì?",
     "answers": [
-      "25",
-      "23",
-      "26",
-      "24"
+      "Phạm trù sứ mệnh lịch sử của giai cấp công nhân",
+      "Phạm trù sứ mệnh lịch sử của giai cấp nông dân",
+      "Phạm trù sứ mệnh lịch sử của giai cấp tư sản",
+      "Phạm trù sứ mệnh lịch sử của giai cấp chủ nô"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 9 của phần 1. Hãy tính 13 + 11; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần III, mục 1: Đối tượng nghiên cứu của CNXH khoa học (trang 39-40 Giáo trình)"
   },
   {
     "id": 10,
-    "question": "Câu hỏi mẫu 10: 22 − 3 bằng bao nhiêu?",
+    "question": "Phương pháp nghiên cứu cụ thể của chủ nghĩa xã hội khoa học là gì?",
     "answers": [
-      "20",
-      "18",
-      "19",
-      "21"
+      "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử của Triết học Mác – Lênin",
+      "Phương pháp chung và phương pháp cụ thể",
+      "Phương pháp kết hợp logic với lịch sử, phương pháp khảo sát và phân tích, phương pháp so sánh, phương pháp có tính liên ngành, phương pháp tổng kết thực tiễn",
+      "Cả A, B, C đúng"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 10 của phần 1. Hãy tính 22 − 3; đáp án là 19. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần III, mục 2: Phương pháp nghiên cứu của CNXH khoa học (trang 39-40 Giáo trình)"
   },
   {
     "id": 11,
-    "question": "Câu hỏi mẫu 11: 4 × 6 bằng bao nhiêu?",
+    "question": "Xét về phương diện kinh tế - xã hội trong chủ nghĩa tư bản, giai cấp công nhân là sản phẩm và là chủ thể của nền sản xuất nào?",
     "answers": [
-      "25",
-      "24",
-      "23",
-      "26"
+      "Sản xuất thủ công nghiệp.",
+      "Sản xuất nhỏ, tự cung tự cấp.",
+      "Sản xuất đại công nghiệp.",
+      "Sản xuất nông nghiệp hàng hóa."
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 11 của phần 1. Hãy tính 4 × 6; đáp án là 24. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Khái niệm giai cấp công nhân (trang 53 Giáo Trình)"
   },
   {
     "id": 12,
-    "question": "Câu hỏi mẫu 12: 16 + 3 bằng bao nhiêu?",
+    "question": "Xét về phương diện chính trị - xã hội trong chủ nghĩa tư bản, giai cấp công nhân có đặc điểm nổi bật nào dưới đây?",
     "answers": [
-      "19",
-      "20",
-      "18",
-      "21"
+      "Sở hữu toàn bộ tư liệu sản xuất chủ yếu của xã hội.",
+      "Là những người lao động không có sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động và bị bóc lột giá trị thặng dư.",
+      "Là giai cấp nắm giữ quyền lực nhà nước và tư liệu sản xuất.",
+      "Là tầng lớp trung lưu có mức sống cao trong xã hội."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 12 của phần 1. Hãy tính 16 + 3; đáp án là 19. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Khái niệm giai cấp công nhân (trang 54 Giáo Trình)"
   },
   {
     "id": 13,
-    "question": "Câu hỏi mẫu 13: 25 − 6 bằng bao nhiêu?",
+    "question": "Theo chủ nghĩa Mác - Lênin, mâu thuẫn cơ bản của phương thức sản xuất tư bản chủ nghĩa thể hiện về mặt xã hội là mâu thuẫn giữa lực lượng sản xuất xã hội hóa ngày càng rộng lớn với quan hệ sản xuất dựa trên điều gì?",
     "answers": [
-      "20",
-      "18",
-      "21",
-      "19"
+      "Chế độ công hữu về tư liệu sản xuất.",
+      "Chế độ tư hữu tư bản chủ nghĩa về tư liệu sản xuất.",
+      "Sự phân chia giai cấp phong kiến lỗi thời.",
+      "Chế độ sở hữu tập thể và sở hữu nhà nước."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 13 của phần 1. Hãy tính 25 − 6; đáp án là 19. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 1.a: Khái niệm giai cấp công nhân (trang 54 Giáo Trình)"
   },
   {
     "id": 14,
-    "question": "Câu hỏi mẫu 14: 7 × 2 bằng bao nhiêu?",
+    "question": "Sứ mệnh lịch sử của giai cấp công nhân thể hiện trên nội dung nào ?",
     "answers": [
-      "15",
-      "13",
-      "14",
-      "16"
+      "Kinh tế",
+      "Chính trị - xã hội",
+      "Văn hóa,tư tưởng",
+      "Bao gồm các đáp án"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 14 của phần 1. Hãy tính 7 × 2; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 3,
+    "note": "Nội dung thuộc Phần I, mục 2: Nội dung sứ mệnh lịch sử của giai cấp công nhân (trang 57-59 Giáo Trình)"
   },
   {
     "id": 15,
-    "question": "Câu hỏi mẫu 15: 19 + 6 bằng bao nhiêu?",
+    "question": "Trong các nội dung thể hiện sứ mệnh lịch sử của giai cấp công nhân, nội dung nào tạo tiền đề vật chất - kỹ thuật cho sự ra đời của xã hội mới?",
     "answers": [
-      "26",
-      "25",
-      "24",
-      "27"
+      "Nội dung kinh tế.",
+      "Nội dung chính trị - xã hội.",
+      "Nội dung văn hóa, tư tưởng.",
+      "Nội dung đối ngoại và hội nhập quốc tế."
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 15 của phần 1. Hãy tính 19 + 6; đáp án là 25. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 2: Nội dung sứ mệnh lịch sử của giai cấp công nhân (trang 57 Giáo Trình)"
   },
   {
     "id": 16,
-    "question": "Câu hỏi mẫu 16: 13 − 1 bằng bao nhiêu?",
+    "question": "Điều kiện khách quan nào quy định sứ mệnh lịch sử của giai cấp công nhân?",
     "answers": [
-      "12",
-      "13",
-      "11",
-      "14"
+      "Do sự lãnh đạo của Đảng Cộng sản và tinh thần tự giác của công nhân.",
+      "Do địa vị kinh tế và địa vị chính trị - xã hội của giai cấp công nhân trong xã hội tư bản.",
+      "Do số lượng của giai cấp công nhân luôn chiếm đa số tuyệt đối trong dân cư.",
+      "Do giai cấp công nhân có trình độ học vấn cao nhất trong xã hội."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 16 của phần 1. Hãy tính 13 − 1; đáp án là 12. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần I, mục 3.a: Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân (trang 60-61 Giáo Trình)"
   },
   {
     "id": 17,
-    "question": "Câu hỏi mẫu 17: 10 × 5 bằng bao nhiêu?",
+    "question": "So với giai cấp công nhân truyền thống ở thế kỷ XIX, giai cấp công nhân hiện nay có xu hướng biến đổi nổi bật nào về mặt lao động?",
     "answers": [
-      "51",
-      "49",
-      "52",
-      "50"
+      "Xu hướng giảm sút về số lượng trên toàn cầu.",
+      "Xu hướng “trí tuệ hóa tăng nhanh”.",
+      "Xu hướng quay trở lại phương thức lao động thủ công truyền thống.",
+      "Xu hướng hoàn toàn không còn chịu sự bóc lột giá trị thặng dư."
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 17 của phần 1. Hãy tính 10 × 5; đáp án là 50. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần II, mục 1.b: Những biến đổi và khác biệt của giai cấp công nhân hiện đại (trang 67 Giáo Trình)"
   },
   {
     "id": 18,
-    "question": "Câu hỏi mẫu 18: 5 + 9 bằng bao nhiêu?",
+    "question": "Giai cấp công nhân Việt Nam ra đời và phát triển gắn liền với sự kiện lịch sử nào?",
     "answers": [
-      "15",
-      "13",
-      "14",
-      "16"
+      "Cuộc cách mạng công nghiệp lần thứ nhất ở Anh.",
+      "Chính sách khai thác thuộc địa của thực dân Pháp ở Việt Nam.",
+      "Sự thành lập Đảng Cộng sản Việt Nam năm 1930.",
+      "Công cuộc đổi mới đất nước năm 1986."
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 18 của phần 1. Hãy tính 5 + 9; đáp án là 14. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc Phần III, mục 1: Đặc điểm của giai cấp công nhân Việt Nam (trang 72 Giáo Trình)"
   },
   {
     "id": 19,
-    "question": "Câu hỏi mẫu 19: 16 − 4 bằng bao nhiêu?",
+    "question": "Theo chủ nghĩa xã hội khoa học, một trong những sứ mệnh lịch sử của giai cấp công nhân về nội dung văn hoá, tư tưởng là",
     "answers": [
-      "13",
-      "12",
-      "11",
-      "14"
+      "tập trung xây dựng hệ giá trị mới: lao động; công bằng; dân chủ; bình đẳng và tự do.",
+      "tập trung xây dựng nhà nước pháp quyền xã hội chủ nghĩa.",
+      "tập trung xây dựng cơ sở vật chất - kỹ thuật cho chủ nghĩa xã hội.",
+      "tập trung xây dựng nền kinh tế hàng hoá nhiều thành phần định hướng xã hội chủ nghĩa"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 19 của phần 1. Hãy tính 16 − 4; đáp án là 12. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 2: Nội dung sứ mệnh lịch sử của giai cấp công nhân (trang 59 Giáo Trình)"
   },
   {
     "id": 20,
-    "question": "Câu hỏi mẫu 20: 4 × 8 bằng bao nhiêu?",
+    "question": "Theo chủ nghĩa xã hội khoa học, nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình là",
     "answers": [
-      "32",
-      "33",
-      "31",
-      "34"
+      "Công đoàn.",
+      "Đoàn Thanh niên.",
+      "Đảng Cộng sản.",
+      "Hội Sinh viên."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 20 của phần 1. Hãy tính 4 × 8; đáp án là 32. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 3.b: Điều kiện chủ quan để giai cấp công nhân thực hiện sứ mệnh lịch sử (trang 63 Giáo Trình)"
   },
   {
     "id": 21,
-    "question": "Câu hỏi mẫu 21: 8 + 12 bằng bao nhiêu?",
+    "question": "Cách mạng vô sản là cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, trên thực tế được thực hiện bằng con đường:",
     "answers": [
-      "21",
-      "19",
-      "22",
-      "20"
+      "Đấu tranh bất bạo động",
+      "Đấu tranh nghị trường",
+      "Bạo lực cách mạng",
+      "Giáo dục thuyết phục"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 21 của phần 1. Hãy tính 8 + 12; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.b: Điều kiện chính trị - xã hội (trang 92 Giáo Trình)"
   },
   {
     "id": 22,
-    "question": "Câu hỏi mẫu 22: 19 − 7 bằng bao nhiêu?",
+    "question": "Cách mạng vô sản là cuộc cách mạng của giai cấp công nhân và nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản, về mặt lý thuyết cũng có thể được tiến hành bằng con đường:",
     "answers": [
-      "13",
-      "11",
-      "12",
-      "14"
+      "Hòa bình",
+      "Bạo lực",
+      "Chính trị",
+      "Kinh tế"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 22 của phần 1. Hãy tính 19 − 7; đáp án là 12. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 1.b: Điều kiện chính trị - xã hội (trang 92 - 93 Giáo Trình)"
   },
   {
     "id": 23,
-    "question": "Câu hỏi mẫu 23: 7 × 4 bằng bao nhiêu?",
+    "question": "Giai đoạn đầu (giai đoạn thấp) của hình thái kinh tế - xã hội cộng sản chủ nghĩa có mấy đặc trưng cơ bản?",
     "answers": [
-      "29",
-      "28",
-      "27",
-      "30"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 23 của phần 1. Hãy tính 7 × 4; đáp án là 28. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 3: Những đặc trưng bản chất của CNXH (trang 93 tới Trang 101 Giáo Trình)"
   },
   {
     "id": 24,
-    "question": "Câu hỏi mẫu 24: 11 + 4 bằng bao nhiêu?",
+    "question": "Trong điều kiện mới của đời sống chính trị - xã hội thế giới đầu thế kỷ XX, đồng thời từ thực tiễn của công cuộc xây dựng chủ nghĩa xã hội ở nước Nga Xô - Viết, V.I.Lênin đã cho rằng, mục đích cao nhất, cuối cùng của những cải tạo xã hội chủ nghĩa là thực hiện nguyên tắc:",
     "answers": [
-      "15",
-      "16",
-      "14",
-      "17"
+      "Làm theo năng lực, hưởng theo hiệu quả công việc",
+      "Làm theo năng lực, hưởng theo sản phẩm",
+      "Làm theo năng lực, hưởng theo nhu cầu",
+      "Làm theo năng lực, hưởng theo lao động"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 24 của phần 1. Hãy tính 11 + 4; đáp án là 15. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc phần I, mục 3: Những đặc trưng bản chất của CNXH (trang 94 Giáo Trình)"
   },
   {
     "id": 25,
-    "question": "Câu hỏi mẫu 25: 22 − 2 bằng bao nhiêu?",
+    "question": "V.I.Lênin cho rằng: “từ chủ nghĩa tư bản, nhân loại chỉ có thể tiến thẳng lên chủ nghĩa xã hội, nghĩa là chế độ công hữu về các ...(1)... và chế độ phân phối theo ...(2)...của mỗi người”.",
     "answers": [
-      "21",
-      "19",
-      "22",
-      "20"
+      "(1) Lực lượng sản xuất (2) Đóng góp",
+      "(1) Sản phẩm xã hội (2) Nhu cầu",
+      "(1) Nguồn lực (2) Hiệu quả công việc",
+      "(1) Tư liệu sản xuất (2) Lao động"
     ],
     "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 25 của phần 1. Hãy tính 22 − 2; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần I, mục 3: Những đặc trưng bản chất của CNXH (trang 96 Giáo Trình)"
   },
   {
     "id": 26,
-    "question": "Câu hỏi mẫu 26: 10 × 7 bằng bao nhiêu?",
+    "question": "Quá độ từ chủ nghĩa tư bản lên chủ nghĩa cộng sản trải qua những hình thức nào?",
     "answers": [
-      "71",
-      "69",
-      "70",
-      "72"
+      "Trực tiếp và gián tiếp",
+      "Tiệm tiến và đột biến",
+      "Trực tiếp và đột biến",
+      "Tiệm tiến và gián tiế"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 26 của phần 1. Hãy tính 10 × 7; đáp án là 70. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc phần II, mục 1: Tỉnh tất yếu khách quan của thời kỳ quá độ lên XHCN (trang 105 Giáo Trình)"
   },
   {
     "id": 27,
-    "question": "Câu hỏi mẫu 27: 14 + 7 bằng bao nhiêu?",
+    "question": "Đặc điểm thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội về phương diện chính trị, là việc thiết lập, tăng cường chuyên chính vô sản mà thực chất của nó là:",
     "answers": [
-      "22",
-      "21",
-      "20",
-      "23"
+      "Sự thống trị về chính trị của giai cấp công nhân với chức năng thực hiện bạo lực cách mạng với giai cấp tư sản",
+      "Tổ chức xây dựng và phát triển kinh tế, chuyên chính với các giai cấp tầng lớp khác trong xã hội",
+      "Giai cấp công nhân nắm và sử dụng quyền lực nhà nước trấn áp giai cấp tư sản, tiến hành xây dựng một xã hội không giai cấp",
+      "Cuộc đấu tranh giai cấp giữa giai cấp vô sản với giai cấp tư sản giành chính quyền"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 27 của phần 1. Hãy tính 14 + 7; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc phần II, mục 2: Đặc điểm của thời kỳ quá độ lên CNXH (trang 108 Giáo Trình)"
   },
   {
     "id": 28,
-    "question": "Câu hỏi mẫu 28: 25 − 5 bằng bao nhiêu?",
+    "question": "Đại hội IX của Đảng Cộng sản Việt Nam xác định, quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam là bỏ qua những yếu tố nào?",
     "answers": [
-      "20",
-      "21",
-      "19",
-      "22"
+      "Bỏ qua sự thống trị về mặt kinh tế và chính trị của chủ nghĩa tư bản",
+      "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa",
+      "Bỏ qua sự áp bức bốc lột và những thành tựu khoa học kỹ thuật của chủ nghĩa tư bản",
+      "Bỏ qua giai đoạn phát triển cao của chủ nghĩa tư bản"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 28 của phần 1. Hãy tính 25 − 5; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 1,
+    "note": "Nội dung thuộc phần III, mục 1: Đặc điểm quá độ lên CNXH ở Việt Nam bỏ qua chế độ tư bản chủ nghĩa (trang 111 Giáo Trình)"
   },
   {
     "id": 29,
-    "question": "Câu hỏi mẫu 29: 4 × 3 bằng bao nhiêu?",
+    "question": "Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011) đã phát triển mô hình chủ nghĩa xã hội Việt Nam với mấy đặc trưng?",
     "answers": [
-      "13",
-      "11",
-      "14",
-      "12"
+      "5",
+      "6",
+      "7",
+      "8"
     ],
     "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 29 của phần 1. Hãy tính 4 × 3; đáp án là 12. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần III, mục 2.a: Những đặc trưng của chủ nghĩa xã hội CNXH ở Việt Nam hiện nay (trang 114 Giáo Trình)"
   },
   {
     "id": 30,
-    "question": "Câu hỏi mẫu 30: 17 + 10 bằng bao nhiêu?",
+    "question": "Đặc điểm của thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội, xét trên phương diện kinh tế là thời kỳ còn tồn tại:",
     "answers": [
-      "28",
-      "26",
-      "27",
-      "29"
+      "Nền kinh tế hàng hóa, vận động theo cơ chế thị trường có sự quản lí của nhà nước",
+      "Nền kinh tế tri thức, lấy tri thức làm động lực cho sự tăng trưởng kinh tế",
+      "Nền kinh tế nhiều thành phần, trong đó có thành phần đối lập",
+      "Nền kinh tế tư bản dựa trên sự tư hữu tư bản chủ nghĩa về tư liệu sản xuất"
     ],
     "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 30 của phần 1. Hãy tính 17 + 10; đáp án là 27. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc phần II, mục 2: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội (trang 107 Giáo Trình)"
   },
   {
     "id": 31,
-    "question": "Câu hỏi mẫu 31: 13 − 8 bằng bao nhiêu?",
+    "question": "Thuật ngữ dân chủ ra đời vào thế kỷ nào?",
     "answers": [
-      "6",
-      "5",
-      "4",
-      "7"
+      "Thế kỷ thứ VII-VI TCN",
+      "Thế kỷ thứ VIII-VII TCN",
+      "Thế kỷ thứ IX-VIII ATCN",
+      "Thế kỷ thứ VI-V TCN"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 31 của phần 1. Hãy tính 13 − 8; đáp án là 5. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I,mục 1.a: Quan niệm về dân chủ (trang 126 Giáo Trình)"
   },
   {
     "id": 32,
-    "question": "Câu hỏi mẫu 32: 7 × 6 bằng bao nhiêu?",
+    "question": "Hình thức \"manh nha\" của dân chủ đã xuất hiện từ chế độ xã hội nào trong lịch sử?",
     "answers": [
-      "42",
-      "43",
-      "41",
-      "44"
+      "Chế độ chiếm hữu nô lệ",
+      "Chế độ phong kiến",
+      "Chế độ công xã nguyên thủy",
+      "Chế độ tư bản chủ nghĩa"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 32 của phần 1. Hãy tính 7 × 6; đáp án là 42. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần I, mục 1.b:Sự ra đời, phát triển của dân chủ (trang 130 Giáo Trình)"
   },
   {
     "id": 33,
-    "question": "Câu hỏi mẫu 33: 20 + 2 bằng bao nhiêu?",
+    "question": "Nền dân chủ xã hội chủ nghĩa đặt dưới sự lãnh đạo của ai?",
     "answers": [
-      "23",
-      "21",
-      "24",
-      "22"
+      "Đảng cộng sản",
+      "Nhà nước",
+      "Các tổ chức chính trị - xã hội",
+      "Chính phủ"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 33 của phần 1. Hãy tính 20 + 2; đáp án là 22. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I, mục 2.b: Bản chất của nền dân chủ xã hội chủ nghĩa (trang 136 Giáo Trình)"
   },
   {
     "id": 34,
-    "question": "Câu hỏi mẫu 34: 16 − 3 bằng bao nhiêu?",
+    "question": "Bản chất chính trị của nền dân chủ xã hội chủ nghĩa được thể hiện nổi bật ở nội dung nào?",
     "answers": [
-      "14",
-      "12",
-      "13",
-      "15"
+      "Sự lãnh đạo duy nhất của Đảng Cộng sản",
+      "Sự thống trị của giai cấp tư sản",
+      "Quyền lực thuộc về tầng lớp giàu có",
+      "Nhà nước không cần pháp luật"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 34 của phần 1. Hãy tính 16 − 3; đáp án là 13. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần I,mục 2b:Bản chất của nền dân chủ xã hội chủ nghĩa (Bản chất chính trị) (trang 137 Giáo Trình)"
   },
   {
     "id": 35,
-    "question": "Câu hỏi mẫu 35: 10 × 2 bằng bao nhiêu?",
+    "question": "Về bản chất kinh tế, nền dân chủ xã hội chủ nghĩa bảo đảm quyền làm chủ của nhân dân đối với:",
     "answers": [
-      "21",
-      "20",
-      "19",
-      "22"
+      "Các phương tiện truyền thông",
+      "Các tư liệu sản xuất chủ yếu",
+      "Hoạt động đối ngoại của Nhà nước",
+      "Các tổ chức chính trị nước ngoài"
     ],
     "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 35 của phần 1. Hãy tính 10 × 2; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "note": "Nội dung thuộc Phần I, mục 2.b: Bản chất của nền dân chủ xã hội chủ nghĩa (Bản chất kinh tế) (trang 138.)"
   },
   {
     "id": 36,
-    "question": "Câu hỏi mẫu 36: 6 + 5 bằng bao nhiêu?",
+    "question": "Nhà nước xã hội chủ nghĩa là kiểu nhà nước trong đó sự thống trị chính trị thuộc về:",
     "answers": [
-      "11",
-      "12",
-      "10",
-      "13"
+      "Giai cấp tư sản",
+      "Giai cấp địa chủ",
+      "Giai cấp công nhân",
+      "Tầng lớp trí thức"
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 36 của phần 1. Hãy tính 6 + 5; đáp án là 11. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần II, mục 1.a: Sự ra đời của nhà nước xã hội chủ nghĩa (trang 143 Giáo Trình)"
   },
   {
     "id": 37,
-    "question": "Câu hỏi mẫu 37: 19 − 6 bằng bao nhiêu?",
+    "question": "Căn cứ vào tính chất của quyền lực nhà nước, chức năng của Nhà nước xã hội chủ nghĩa được chia thành:",
     "answers": [
-      "14",
-      "12",
-      "15",
-      "13"
+      "Chức năng kinh tế và văn hóa",
+      "Chức năng đối nội và đối ngoại",
+      "Chức năng giai cấp và chức năng xã hội",
+      "Chức năng chính trị và pháp luật"
     ],
-    "correct": 3,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 37 của phần 1. Hãy tính 19 − 6; đáp án là 13. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc PhầnII, mục 1.c: Chức năng của nhà nước xã hội chủ nghĩa (trang 145 Giáo Trình)"
   },
   {
     "id": 38,
-    "question": "Câu hỏi mẫu 38: 4 × 5 bằng bao nhiêu?",
+    "question": "Mối quan hệ giữa dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa được thể hiện như thế nào?",
     "answers": [
-      "21",
-      "19",
-      "20",
-      "22"
+      "Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho xây dựng và hoạt động của Nhà nước xã hội chủ nghĩa",
+      "Nhà nước xã hội chủ nghĩa không liên quan đến dân chủ",
+      "Dân chủ chỉ tồn tại bên ngoài Nhà nước",
+      "Nhà nước quyết định thay thế hoàn toàn dân chủ"
     ],
-    "correct": 2,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 38 của phần 1. Hãy tính 4 × 5; đáp án là 20. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần II, mục 2.a: Dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho xây dựng và hoạt động của Nhà nước xã hội chủ nghĩa (trang 147 Giáo Trình)"
   },
   {
     "id": 39,
-    "question": "Câu hỏi mẫu 39: 9 + 8 bằng bao nhiêu?",
+    "question": "Ở Việt Nam, dân chủ xã hội chủ nghĩa được thực hiện thông qua những hình thức nào?",
     "answers": [
-      "18",
-      "17",
-      "16",
-      "19"
+      "Dân chủ trực tiếp và dân chủ gián tiếp",
+      "Dân chủ kinh tế và dân chủ quân sự",
+      "Dân chủ tập trung và dân chủ tư sản",
+      "Dân chủ nhà nước và dân chủ quốc tế"
     ],
-    "correct": 1,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 39 của phần 1. Hãy tính 9 + 8; đáp án là 17. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 0,
+    "note": "Nội dung thuộc Phần III, mục 1.b: Bản chất của nền dân chủ xã hội chủ nghĩa ở Việt Nam (trang 153 Giáo Trình)"
   },
   {
     "id": 40,
-    "question": "Câu hỏi mẫu 40: 22 − 1 bằng bao nhiêu?",
+    "question": "Quyền lực nhà nước trong Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam được tổ chức theo nguyên tắc nào sau đây?",
     "answers": [
-      "21",
-      "22",
-      "20",
-      "23"
+      "Phân chia độc lập và tách biệt tuyệt đối giữa các cơ quan.",
+      "Tập trung toàn bộ quyền lực vào một cơ quan duy nhất.",
+      "Thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp.",
+      "Vận hành tự do và không chịu bất kỳ cơ chế kiểm soát quyền lực nào."
     ],
-    "correct": 0,
-    "note": "Đây là câu hỏi dữ liệu mẫu số 40 của phần 1. Hãy tính 22 − 1; đáp án là 21. Bạn có thể thay nội dung này bằng lời giải chi tiết của mình."
+    "correct": 2,
+    "note": "Nội dung thuộc Phần III, mục 2.b: Đặc điểm của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam (trang 157 Giáo Trình)"
   }
 ]

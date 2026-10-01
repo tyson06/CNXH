@@ -1,4 +1,5 @@
 import '../css/global.css';
+import './theme.js';
 import { getQuizMeta } from './data.js';
 import { loadQuestions } from './data.js';
 import { readAttempt, saveAttempt, saveResult, clearAttempt } from './storage.js';
@@ -19,7 +20,19 @@ if (!attempt || !quiz || !Array.isArray(attempt.answers) || !Number.isInteger(at
     if (attempt.currentQuestionIndex < 0 || attempt.currentQuestionIndex >= questions.length) throw new Error('Vị trí câu hỏi không hợp lệ. Vui lòng bắt đầu lại từ trang chủ.');
     let index = attempt.currentQuestionIndex;
     let answers = Array(questions.length).fill(null);
-    if (attempt.answers.length === questions.length) answers = attempt.answers;
+    if (attempt.answers.length === questions.length) answers = [...attempt.answers];
+    let history = Array.from({ length: questions.length }, () => []);
+    if (Array.isArray(attempt.history) && attempt.history.length === questions.length) {
+      history = attempt.history.map((entries) => Array.isArray(entries) ? [...entries] : []);
+    } else {
+      answers.forEach((answer, questionIndex) => {
+        if (Number.isInteger(answer)) history[questionIndex].push(answer);
+      });
+    }
+
+    function saveProgress() {
+      saveAttempt({ quizId: quiz.id, currentQuestionIndex: index, answers, history });
+    }
 
     function render() {
       const question = questions[index];
@@ -36,8 +49,8 @@ if (!attempt || !quiz || !Array.isArray(attempt.answers) || !Number.isInteger(at
       root.innerHTML = `<div class="quiz-heading"><div><a class="back-link" href="./">← Danh sách bộ đề</a><h1>${quiz.title}</h1></div><span class="progress-label">Câu ${index + 1} <span>/ ${questions.length}</span></span></div>
         <div class="progress-track" role="progressbar" aria-label="Tiến trình làm bài" aria-valuenow="${index + 1}" aria-valuemin="1" aria-valuemax="${questions.length}"><span style="width:${progress}%"></span></div>
         <section class="question-card" aria-labelledby="question-title"><div class="question-meta">CÂU HỎI ${String(index + 1).padStart(2, '0')}</div><h2 id="question-title">${escapeHtml(question.question)}</h2><div class="answer-list">${options}</div>
-        ${answered ? `<div class="feedback ${selected === question.correct ? 'feedback-correct' : 'feedback-wrong'}" role="status"><strong>${selected === question.correct ? 'Chính xác!' : `Chưa chính xác. Đáp án đúng là ${String.fromCharCode(65 + question.correct)}.`}</strong></div>${question.note.trim() ? `<aside class="note-card"><h3>💡 Ghi chú</h3><p>${escapeHtml(question.note).replaceAll('\n', '<br>')}</p></aside>` : ''}` : ''}
-        <div class="quiz-actions"><span class="keyboard-hint">Chọn một đáp án để tiếp tục</span><button class="button button-primary next-button" type="button" data-next ${answered ? '' : 'disabled'}>${isLast ? 'Xem kết quả' : 'Câu tiếp'} <span aria-hidden="true">→</span></button></div></section>`;
+        ${answered ? `<div class="feedback ${selected === question.correct ? 'feedback-correct' : 'feedback-wrong'}" role="status"><strong>${selected === question.correct ? 'Chính xác!' : `Chưa chính xác. Đáp án đúng là ${String.fromCharCode(65 + question.correct)}.`}</strong></div>${question.note.trim() ? `<aside class="note-card"><h3>📖 Nội dung</h3><p>${escapeHtml(question.note).replaceAll('\n', '<br>')}</p></aside>` : ''}${selected !== question.correct ? '<button class="button button-secondary retry-question" type="button" data-retry-question>↻ Làm lại câu này</button>' : ''}` : ''}
+        <div class="quiz-actions"><button class="button button-secondary previous-button" type="button" data-previous ${index === 0 ? 'disabled' : ''}>← Câu trước</button><span class="keyboard-hint">${answered && selected !== question.correct ? 'Bạn có thể làm lại câu này trước khi chuyển.' : 'Chọn một đáp án để tiếp tục.'}</span><button class="button button-primary next-button" type="button" data-next ${answered ? '' : 'disabled'}>${isLast ? 'Xem kết quả' : 'Câu tiếp'} <span aria-hidden="true">→</span></button></div></section>`;
     }
 
     function escapeHtml(value) { return value.replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]); }
@@ -46,18 +59,31 @@ if (!attempt || !quiz || !Array.isArray(attempt.answers) || !Number.isInteger(at
       const answerButton = event.target.closest('[data-answer]');
       if (answerButton && !Number.isInteger(answers[index])) {
         answers[index] = Number(answerButton.dataset.answer);
-        saveAttempt({ quizId: quiz.id, currentQuestionIndex: index, answers });
+        history[index].push(answers[index]);
+        saveProgress();
+        render();
+        return;
+      }
+      if (event.target.closest('[data-retry-question]')) {
+        answers[index] = null;
+        saveProgress();
+        render();
+        return;
+      }
+      if (event.target.closest('[data-previous]') && index > 0) {
+        index -= 1;
+        saveProgress();
         render();
         return;
       }
       if (!event.target.closest('[data-next]') || !Number.isInteger(answers[index])) return;
       if (index < questions.length - 1) {
         index += 1;
-        saveAttempt({ quizId: quiz.id, currentQuestionIndex: index, answers });
+        saveProgress();
         render();
       } else {
         const correct = answers.reduce((total, answer, questionIndex) => total + (answer === questions[questionIndex].correct ? 1 : 0), 0);
-        saveResult({ quizId: quiz.id, correct, total: questions.length, completedAt: new Date().toISOString() });
+        saveResult({ quizId: quiz.id, correct, total: questions.length, answers, history, completedAt: new Date().toISOString() });
         clearAttempt();
         window.location.href = new URL('result.html', window.location.href).href;
       }
