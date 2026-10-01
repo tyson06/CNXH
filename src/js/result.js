@@ -24,11 +24,19 @@ if (!result || !quiz || !Number.isInteger(result.correct) || result.correct < 0 
       const selected = answers[index];
       const attempts = Array.isArray(histories[index]) ? histories[index] : (Number.isInteger(selected) ? [selected] : []);
       const finalCorrect = selected === question.correct;
-      const attemptRows = attempts.length ? attempts.map((choice, attemptIndex) => {
+      const options = question.answers.map((answer, optionIndex) => {
+        const isCorrect = optionIndex === question.correct;
+        const isSelected = optionIndex === selected;
+        const stateClass = isCorrect ? ' is-correct' : isSelected ? ' is-wrong' : '';
+        const marker = isCorrect ? '✓' : isSelected ? '×' : '';
+        const status = isSelected ? (isCorrect ? 'Bạn chọn · Đúng' : 'Bạn chọn · Sai') : (isCorrect ? 'Đáp án đúng' : '');
+        return `<div class="answer-option review-answer${stateClass}"><span class="answer-letter">${String.fromCharCode(65 + optionIndex)}</span><span>${escapeHtml(answer)}</span><span class="answer-mark">${marker}</span><span class="review-answer-status">${status}</span></div>`;
+      }).join('');
+      const attemptRows = attempts.length > 1 ? attempts.map((choice, attemptIndex) => {
         const isCorrect = choice === question.correct;
         return `<li class="review-attempt ${isCorrect ? 'is-correct' : 'is-wrong'}"><span>Lần ${attemptIndex + 1} · ${isCorrect ? 'Đúng' : 'Sai'}</span><span>${String.fromCharCode(65 + choice)}. ${escapeHtml(question.answers[choice])}</span></li>`;
-      }).join('') : '<li class="review-attempt is-unanswered">Chưa có đáp án được lưu cho lần làm này.</li>';
-      return `<details class="review-question"><summary><span>Câu ${index + 1}</span><span class="review-status ${finalCorrect ? 'is-correct' : 'is-wrong'}">${finalCorrect ? 'Đúng' : 'Sai'}</span></summary><h3>${escapeHtml(question.question)}</h3><ol class="review-attempts">${attemptRows}</ol><p class="correct-answer"><strong>Đáp án đúng:</strong> ${String.fromCharCode(65 + question.correct)}. ${escapeHtml(question.answers[question.correct])}</p></details>`;
+      }).join('') : '';
+      return `<article class="review-question"><div class="review-question-heading"><span>Câu ${index + 1}</span><span class="review-status ${finalCorrect ? 'is-correct' : 'is-wrong'}">${finalCorrect ? 'Đúng' : 'Sai'}</span></div><h3>${escapeHtml(question.question)}</h3><div class="review-answers">${options}</div>${attemptRows ? `<ol class="review-attempts" aria-label="Lịch sử các lần chọn">${attemptRows}</ol>` : ''}</article>`;
     }).join('');
     root.innerHTML = `<div class="result-card"><div class="completion-icon" aria-hidden="true">✓</div><p class="eyebrow">HOÀN THÀNH</p><h1>${quiz.title}</h1><p class="result-subtitle">Bạn đã hoàn thành bộ đề. Làm tốt lắm!</p><div class="score-ring" style="--score:${percentage}%"><div><strong>${percentage}<span>%</span></strong><small>chính xác</small></div></div><div class="score-summary"><div><strong>${result.correct} <span>/ ${result.total}</span></strong><span>Câu đúng</span></div><div><strong>${result.total - result.correct}</strong><span>Câu sai</span></div><div><strong>${score} <span>/ 10</span></strong><span>Điểm</span></div></div><div class="result-actions"><button class="button button-primary" type="button" data-retry>Thi lại từ đầu <span aria-hidden="true">↻</span></button><a class="button button-secondary" href="./">Về trang chủ</a></div></div><section class="review-panel"><h2>Xem lại đáp án</h2><p class="review-intro">Các lần chọn được lưu theo từng câu; đáp án đúng được đánh dấu màu xanh.</p><div class="review-list">${review}</div></section>`;
     root.addEventListener('click', (event) => {
