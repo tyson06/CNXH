@@ -31,9 +31,9 @@ Build production được tạo trong `dist/`. Lệnh preview phục vụ chính
 
 ## Deploy GitHub Pages
 
-Vite đã cấu hình `base: '/quiz-web/'` cho Project Site `https://tyson06.github.io/quiz-web/`.
+Vite đã cấu hình `base: '/CNXH/'` cho Project Site `https://tyson06.github.io/CNXH/`.
 
-1. Tạo repository GitHub `tyson06/quiz-web` nếu chưa có.
+1. Dùng repository GitHub `tyson06/CNXH`.
 2. Commit và push toàn bộ project lên nhánh `main`.
 3. Vào **Settings → Pages** của repository.
 4. Ở **Build and deployment**, chọn **GitHub Actions**.
